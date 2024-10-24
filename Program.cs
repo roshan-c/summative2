@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Console.WriteLine("Hello World!");
         Console.WriteLine("Welcome to the Degree Determiner!");
         int digitalPortfolio = 0;
         int openBookExam = 0;
